@@ -19,6 +19,8 @@ Example:
 ```python
 'api-key': 'YOUR API KEY'
 ```
+#### How to get API KEY ?
+Go to https://fpt.ai/ to get api key
 ###### Make sure you have VLC downloaded to your device
 
 # Good Luck !
